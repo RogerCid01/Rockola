@@ -1,0 +1,11 @@
+Model Information:
+* title:	High Hopes Record
+* source:	https://sketchfab.com/3d-models/high-hopes-record-f97170b7f3674a9a9161aebffda69302
+* author:	RogerCid (https://sketchfab.com/RogerCid)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "High Hopes Record" (https://sketchfab.com/3d-models/high-hopes-record-f97170b7f3674a9a9161aebffda69302) by RogerCid (https://sketchfab.com/RogerCid) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
