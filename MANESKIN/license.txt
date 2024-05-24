@@ -1,0 +1,11 @@
+Model Information:
+* title:	MANESKIN
+* source:	https://sketchfab.com/3d-models/maneskin-3d54a63316d743b2a7d12f17bf8fdc5b
+* author:	RogerCid (https://sketchfab.com/RogerCid)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MANESKIN" (https://sketchfab.com/3d-models/maneskin-3d54a63316d743b2a7d12f17bf8fdc5b) by RogerCid (https://sketchfab.com/RogerCid) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
